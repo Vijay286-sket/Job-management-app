@@ -185,3 +185,10 @@ public
 
 # MongoDB installer
 mongodb-installer.msi
+
+
+# Frontend
+frontend/node_modules/
+
+# Backend
+backend/node_modules/
